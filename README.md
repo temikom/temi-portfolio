@@ -1,2 +1,2 @@
 # temi-portfolio
-Portfolio website code
+My personal website and developer portfolio
